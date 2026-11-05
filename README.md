@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm [xuyanhua]
 
-<!--
-**hua-1122/hua-1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an independent cybersecurity researcher with a strong passion for malware analysis, threat hunting, and Linux security.
 
-Here are some ideas to get you started:
+🔭 **What I'm doing:**
+- Analyzing Linux malware families and reverse engineering.
+- Using sandbox platforms (like Hybrid Analysis) for dynamic behavior analysis.
+- Writing scripts to automate threat intelligence gathering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 **My Focus:**
+- Malware Analysis & Reverse Engineering
+- Network Security & Threat Detection
+- Linux/Unix System Security
+- 📫 **How to reach me:** [353569930@qq.com]
